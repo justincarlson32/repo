@@ -1,0 +1,14 @@
+Package: com.ion.customalertx
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Name: CustomAlertX
+Version: 0.2
+Size: 46,998
+Architecture: iphoneos-arm
+Description: A lock-screen tweak to add new notification animations!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
+Depicition: https://justincarlson32.github.io/repo/depictions/customalertx
+MD5sum:6e8cf4556e7ea906c56ef28750d0ff40
+Filename: /customalertx.deb
+
