@@ -7,7 +7,8 @@ Architecture: iphoneos-arm
 Description: A lock-screen tweak to add new notification animations!
 Maintainer: _justincarlson
 Author: _justincarlson
-Section: themes
+Section: Tweaks
+Depicition: https://justincarlson32.github.io/repo/depictions/customalertx
 MD5sum:6E8CF4556E7EA906C56EF28750D0FF40
 SHA1sum:69D466F60125BA5E08A5A33877D9677EEBD34D2F
 SHA256sum:4FA6E17CF8F828DA8B8496D120989523A5D1D6C9676CBF165C1D375933861A31
