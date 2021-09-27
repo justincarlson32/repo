@@ -1,5 +1,5 @@
 Package: com.private.sc
-Version: 0.0.39
+Version: 0.0.43
 Name: PrivSC
 Depends: mobilesubstrate, firmware (>= 11)
 Architecture: iphoneos-arm
@@ -7,9 +7,9 @@ Description: A private/undetected tweak for Snapchat!
 Maintainer: _justincarlson
 Author: _justincarlson
 Section: Tweaks
-Size: 108004
-SHA256: bab04f5771280c55fc542cc53e1725bbf561ea33be0cb176e74a0a649554c3a1
-SHA512: c1a65fcd0f1d95d80ab584277900c2cc19d26deff1aedb8d6c9ebee9da8adc4ae9ab212df2845eb710d1b4d708e4696e8b735989e9a6374524c9cf3ca7ccb6b4
+Size: 115968
+SHA256: 3fe9c65f6e6b6bde28f3c3d7eed0b4cc43f428888678a4c7009bd9477a83a167
+SHA512: 3fe8e3b53bf606d2e566c8d1c6710f671989b3a33af98d95217df3ed9edc05a21926d3d87aae9b24053c25021262ff850815ef0bd302f30443b39254fc126980
 Filename: /privsc.deb
 
 Package: com.ion.pandorasbox
