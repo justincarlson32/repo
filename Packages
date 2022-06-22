@@ -1,0 +1,54 @@
+Package: com.private.sc
+Version: 0.0.44
+Name: PrivSC
+Depends: mobilesubstrate, firmware (>= 9)
+Architecture: iphoneos-arm
+Description: A private/undetected tweak for Snapchat!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
+Size: 116788
+SHA256: cb5eec81aa51a9d987d0f684cb22e264fabb379693985c6f74a8f09783260346
+Filename: /privsc.deb
+
+Package: com.ion.pandorasbox
+Version: 0.0.8
+Name: PandorasBox
+Depends: mobilesubstrate, firmware (>= 9)
+Architecture: iphoneos-arm
+Description:  An Adfree/UnlimSkip/Downloader Pandora enhancement tweak!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
+Size: 73922
+SHA256: 072a5686cb51a47992d89ef0c0721f1bf5207b8c12f7806f0a26fcc6ebeb2198
+SHA512: 333390f19b88fb67eecbc1c29a44a0ab57641b1df7fbc8eb83635982429ab7e192a401c044e3b171e52b50bd89c268b64e8b3424e5fb54d5652c508c88197a70
+Filename: /pandorasbox.deb
+
+Package: com.ion.cthulu
+Version: 0.0.5
+Name: Cthulu
+Depends: mobilesubstrate, firmware (>= 11)
+Architecture: iphoneos-arm
+Description:  An Adfree Hulu tweak!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
+Size: 12940
+SHA256: 43b91db688bed9887043c6a31b4e351a7f91c1d09ffd60a8188f56ab6521cd9c
+SHA512: a2c657c1f95311fdc1c487f5d63da32305cb5480a5b71d97e3ba9f0551890b4cea998517c10066829d13b617cf0dc16aa3986fdafe3a4d6cfc506b606033842f
+Filename: /cthulu.deb
+
+Package: com.ion.ytredux
+Version: 0.0.4
+Name: YTRedux
+Depends: mobilesubstrate, firmware (>= 11)
+Architecture: iphoneos-arm
+Description:  An Adfree/BackgroundPlay Youtube tweak!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
+Size: 9134
+SHA256: 71ab18c16cfb4ea6323b8b6c6e08d7b4761df1d851c5bc87c79dbe943f96a9b7
+SHA512: a831fc3896f888f0622078505be744e076e0061518d5c3df0b21aade2844752d3dee948881d392817aa36ea53cebcffb3ea33f547b8a5c561049ec143d4c14a4
+Filename: /ytredux.deb
