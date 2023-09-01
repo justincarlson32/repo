@@ -7,5 +7,4 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: Tweaks
 Description: _JustinCarlson's Private Repo
 SHA256:
- 75589940a83f5f700c46e1bb280cb88b0e29f1ba7eddab4ed8845c690a4c5ed5            1116 Packages
- c1490d7e0f7036c00e897beeaebef35241772c2ae0944efefe8957dac1f4caa4               403 Release
+ 75589940a83f5f700c46e1bb280cb88b0e29f1ba7eddab4ed8845c690a4c5ed5            1116 Packages.bz2
