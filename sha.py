@@ -5,7 +5,7 @@ from os.path import isfile, join
 onlyfiles = [f for f in listdir(".") if isfile(join(".", f))]
 
 for filename in onlyfiles:
-    if (".deb" in filename):
+    if ("" in filename):
         with open(filename,"rb") as f:
             bytes = f.read() # read entire file as bytes
             readable_hash = hashlib.sha256(bytes).hexdigest()
